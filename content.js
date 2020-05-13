@@ -139,7 +139,7 @@ module.exports = {
         id: 'ST6',
         title: 'Microsoft Office',
         icon: 'fab fa-microsoft',
-        expertise: 3,
+        expertise: 5,
         link: 'https://office.com',
         desc:
           'I used office for most of my life to create document or conduct analysis. My favorite office apps are Microsoft Excel and Microsoft Powerpoint.',
@@ -148,7 +148,7 @@ module.exports = {
         id: 'ST4',
         title: 'Adobe Photoshop',
         icon: 'fab fa-adobe',
-        expertise: 3,
+        expertise: 4,
         link: 'https://www.adobe.com/sea/products/photoshopfamily.html',
         desc:
           'Another adobe products that allow me to manipulate image and create a GIF animation.',
